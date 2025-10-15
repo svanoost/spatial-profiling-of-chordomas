@@ -1,12 +1,11 @@
 ## Description
-This is the repository for the scripts used in the study "
-Immune infiltration is linked to increased transcriptional activity and distinct metabolic profiles in chordomas", bioRxiv (2025), DOI
+This is the repository for the scripts used in the study "Immune infiltration is linked to increased transcriptional activity and distinct metabolic profiles in chordomas", bioRxiv (2025), DOI
 
 ## This repository has the following structure:
 1. input_files - .tsv & .RData files containing the necessary input to perform the analysis e.g. annotation files and processed data files.
-2. GeoMx - scripts used for analysing the RNA sequencing data & generating the figures. See GEO link below for raw data of USTS and myxofibrosarcomas.
-3. MALDI - scripts used for analysing the imaging mass cytometry data & generating the figures. See BioStudies link for raw data.
-4. IHC - scripts used for analysing the multispectral immunofluorescence & double immunohistochemical data, as well as generating the figures (including a QuPath script).
+2. GeoMx - scripts used for analyzing the GeoMx DSP data & generating the figures - also includes the imaging mass cytometry figure.
+3. MALDI - scripts used for analyzing the MALDI-MSI data & generating the figures.
+4. Other - scripts used for analyzing the other data & generating the figures - PAS/dPAS, IHC & qPCR.
 
 
 ## Authors
