@@ -1,0 +1,108 @@
+Gene	Segment	Cluster
+PLEKHH2	Tumor	TBXT target
+SLC4A11	Tumor	TBXT target
+CXCL1	Tumor	NA
+CLEC18C	Tumor	NA
+KRT15	Tumor	NA
+HSF4	Tumor	NA
+CD24	Tumor	NA
+LAMA4	Tumor	TBXT target
+DST	Tumor	NA
+COL11A1	Tumor	NA
+CCN2	Tumor	TBXT target
+S100A11	Tumor	NA
+S100A10	Tumor	NA
+YBX3	Tumor	NA
+CTSL	Tumor	NA
+AKR1B15	Tumor	TBXT target
+GPM6B	Tumor	TBXT target
+HAPLN3	Tumor	TBXT target
+TSPAN7	Tumor	TBXT target
+CA3	Tumor	NA
+ABI3BP	Tumor	NA
+MFGE8	Tumor	NA
+ALCAM	Tumor	NA
+CA12	Tumor	NA
+RAB3B	Tumor	TBXT target
+ATP6V1B2	Tumor	NA
+CAV1	Tumor	NA
+CLU	Tumor	NA
+LGALS3	Tumor	NA
+KRT8	Tumor	TBXT target
+ACAN	Tumor	TBXT target
+CSPG4	Tumor	NA
+APP	Tumor	NA
+PPP1R3C	Tumor	TBXT target
+FN1	Tumor	NA
+KRT19	Tumor	TBXT target
+CAV2	Tumor	NA
+MT2A	Tumor	NA
+ADGRD1	Tumor	NA
+PPL	Tumor	NA
+MTSS2	Tumor	NA
+FMOD	Tumor	NA
+EPS8L2	Tumor	NA
+ESYT2	Tumor	TBXT target
+ITGA3	Tumor	NA
+MRGPRX3	Tumor	TBXT target
+SOX9	Tumor	TBXT target
+TBXT	Tumor	TBXT target
+EHD3	Tumor	NA
+C1QTNF3	Tumor	NA
+TRIL	Tumor	TBXT target
+IGFBP2	Tumor	NA
+SLC2A1	Tumor	NA
+EFEMP1	Tumor	NA
+CD109	Tumor	TBXT target
+COL2A1	Tumor	NA
+XYLT1	Tumor	NA
+ASPH	Tumor	NA
+RAPGEF5	Tumor	TBXT target
+S100A1	Tumor	NA
+CRYAB	Tumor	NA
+SPP1	Tumor	NA
+IGKC	TME	Plasma cells
+IGHG1	TME	Plasma cells
+IGHG3	TME	Plasma cells
+IGHG2	TME	Plasma cells
+IGHG4	TME	Plasma cells
+IGFBP5	TME	Stromal cells
+COL1A1	TME	Stromal cells
+MGP	TME	Stromal cells
+COL1A2	TME	Stromal cells
+COL3A1	TME	Stromal cells
+COL6A1	TME	Stromal cells
+COL6A2	TME	Stromal cells
+IGFBP4	TME	Stromal cells
+COL4A1	TME	Stromal cells
+COL4A2	TME	Stromal cells
+IGFBP7	TME	Stromal cells
+BGN	TME	Stromal cells
+APOD	TME	Stromal / Myeloid
+DCN	TME	Stromal / Myeloid
+CD163	TME	Stromal / Myeloid
+LUM	TME	Stromal / Myeloid
+THBS1	TME	Stromal / Myeloid
+CIITA	TME	Stromal / Myeloid
+PLXND1	TME	Stromal / Myeloid
+STAB1	TME	Stromal / Myeloid
+PARVG	TME	Stromal / Myeloid
+HLA?DMA	TME	Stromal / Myeloid
+PTCH2	TME	Stromal / Myeloid
+LPAR6	TME	Stromal / Myeloid
+EVL	TME	Myeloid cells
+TMSB4X	TME	Myeloid cells
+HLA?DRA	TME	Myeloid cells
+HLA?DRB1	TME	Myeloid cells
+CD74	TME	Myeloid cells
+CRIP1	TME	Myeloid cells
+ITGA4	TME	Myeloid cells
+PSTPIP1	TME	Myeloid cells
+LYZ	TME	Myeloid cells
+PTGDS	TME	Myeloid cells
+TYMP	TME	Myeloid cells
+ITGAX	TME	Myeloid cells
+ARHGAP4	TME	Myeloid cells
+MMP9	TME	Myeloid cells
+HLA?DPB1	TME	Myeloid cells
+HLA?DQB1	TME	Myeloid cells
