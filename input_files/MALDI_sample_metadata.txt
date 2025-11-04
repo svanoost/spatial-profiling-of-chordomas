@@ -1,7 +1,7 @@
 L_ID	Tumor	Stroma	stroma_perc	tumor_perc
 peakmat_ITO1_3034_T3	Non-inflamed	Non-inflamed	29.34	70.66
 peakmat_ITO1_6325_T1	Non-inflamed	Non-inflamed	63.05	36.95
-peakmat_ITO1_6473_T1	NA	Na	NA	NA
+peakmat_ITO1_6473_T1	NA	NA	NA	NA
 peakmat_ITO1_6737_T2	Inflamed	Inflamed	22.17	77.83
 peakmat_ITO1_985_T3	Inflamed	Inflamed	6.54	93.46
 peakmat_ITO2_4716_T2	Non-inflamed	Non-inflamed	13.04	86.96
