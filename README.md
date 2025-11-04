@@ -11,8 +11,8 @@ This is the repository for the scripts used in the study "Immune infiltration is
 S. van Oost, R. Ursem, Z.B. Erdem, S. Cardoso, S. Venneker, R. van der Breggen, I.H. Briaire-de Bruijn, A.B. Kruisselbrink, W.C. Peul, K. Szuhai, R.J.P van der Wal, R. van Zeijl, B. Heijs, N.F.C.C. de Miranda & J.V.M.G. Bovee
 
 ## Data availability
-1. GeoMx DSP (raw and processed): figshare
+1. GeoMx DSP (raw and processed): https://figshare.com/s/4d52d0129b9e0f9c7a8c
 2. MALDI-MSI (raw): upon request
-3. MALDI-MSI (processed): figshare
+3. MALDI-MSI (processed): upon request | https://figshare.com/s/4d52d0129b9e0f9c7a8c
 3. Imaging mass cytometry data (raw): https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD830?query=S-BIAD830
 4. Imaging mass cytometry data (processed): https://git.lumc.nl/bstp/papers/multimodal-profiling-of-chordomas
