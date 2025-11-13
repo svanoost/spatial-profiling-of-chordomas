@@ -1,5 +1,5 @@
 ## Description
-This is the repository for the scripts used in the study "Immune infiltration is linked to increased transcriptional activity and distinct metabolic profiles in chordomas", bioRxiv (2025), DOI
+This is the repository for the scripts used in the study "Immune infiltration is linked to increased transcriptional activity and distinct metabolic profiles in chordomas", bioRxiv (2025), https://doi.org/10.1101/2025.11.04.686078
 
 ## This repository has the following structure:
 1. input_files - .txt & .RData files containing the necessary input to perform the analysis e.g. annotation files and processed data files.
